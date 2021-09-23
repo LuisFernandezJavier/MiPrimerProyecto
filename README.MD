@@ -5,4 +5,4 @@ básica sobre comiandos de git:
 * Subir archivos/ficheros
 * El uso de gitignore
 * Clonar otros repositorios
-Y alguna mas.
+* Y alguna mas.
